@@ -1,9 +1,8 @@
 ## <div align="center">I'm Mullai Vendhan, a frontend developer 👨‍💻</div>  
 #### <div align="center">More about me - https://mullaivendhan-resume.tiiny.site/</div>    
   
-<br>
 
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
