@@ -1,7 +1,6 @@
 ### <div align="center">I'm Mullai Vendhan, a frontend developer 👨‍💻</div>  
 
 <br>
-  
 
 - 🌱 I’m currently learning React Native and Node js  
   
@@ -11,8 +10,6 @@
 
 - 👉 More about me https://mullaivendhan-resume.tiiny.site/  
   
-
-<br/>  
 
 
 ## My Skill Set  
@@ -53,20 +50,3 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/MullaiVen" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mullai-vendhan333" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_kriz_blaze_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>  
