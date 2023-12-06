@@ -2,7 +2,8 @@
 #### <div align="center">More about me - https://mullaivendhan-resume.tiiny.site/</div>    
   
 
-### My Skill Set  
+### <div align="center">My Skill Set </div>  
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -38,5 +39,6 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table> 
+</div>
 
