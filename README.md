@@ -1,16 +1,7 @@
-### <div align="center">I'm Mullai Vendhan, a frontend developer 👨‍💻</div>  
-
+## <div align="center">I'm Mullai Vendhan, a frontend developer 👨‍💻</div>  
+#### <div align="center">More about me - https://mullaivendhan-resume.tiiny.site/</div>    
+  
 <br>
-
-- 🌱 I’m currently learning React Native and Node js  
-  
-
-- ❓ Ask me about anything related to React and related technologies  
-  
-
-- 👉 More about me https://mullaivendhan-resume.tiiny.site/  
-  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
