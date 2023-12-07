@@ -1,5 +1,5 @@
 ## <div align="center">I'm Mullai Vendhan, a frontend developer 👨‍💻</div>  
-#### <div align="center">More about me - https://mullaivendhan-resume.tiin.site/</div>    
+#### <div align="center">More about me - https://mullai-resume.tiiny.site/</div>    
   
 
 ### <div align="center">My Skill Set </div>  
