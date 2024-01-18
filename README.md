@@ -1,4 +1,4 @@
-## <div align="center">I'm Mullai Vendhan, a frontend developer 👨‍💻</div>  
+## <div align="center">I'm Mullai Vendhan, A full stack software developer 👨‍💻</div>  
 #### <div align="center">More about me - https://mullai-resume.tiiny.site/</div>    
   
 
