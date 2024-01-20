@@ -1,5 +1,4 @@
-## <div align="center">I'm Mullai Vendhan, A Full Stack Software Developer 👨‍💻</div>  
-#### <div align="center">More about me - https://mullai-resume.tiiny.site/</div>    
+## <div align="center">I'm Mullai Vendhan, A Full Stack Software Developer 👨‍💻</div>   
   
 
 ### <div align="center">My Skill Set </div>  
